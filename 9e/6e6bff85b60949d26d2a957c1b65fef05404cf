@@ -1,0 +1,42 @@
+internal/caldav/fake_test.go
+  s_4a30703ed6a00b::t_10fec4c9fecab8 126-160
+  s_4a30703ed6a00b::t_6762bc0b6f2c7f 6
+internal/caldav/store.go
+  s_4a30703ed6a00b::t_b9877b08ed48ab 122-129
+  s_4a30703ed6a00b::t_56fbb87590422e 33-39
+internal/caldav/collections_test.go
+  s_4a30703ed6a00b::t_22ed8baef2f9d0 1-399
+internal/caldav/collections.go
+  s_4a30703ed6a00b::t_91d19bf07b55af 1-452,454
+  s_4a30703ed6a00b::t_3c32d15560e2bb 453,455-493
+README.md
+  s_4a30703ed6a00b::t_3a87f9f86b52cb 189,199-201
+cmd/carbonate-gui/bridge.go
+  s_4a30703ed6a00b::t_5e4acb3aa36aa7 223,244
+cmd/carbonate/main.go
+  s_4a30703ed6a00b::t_52c0f7cce5047a 295
+internal/caldav/backend.go
+  s_4a30703ed6a00b::t_dd50ad5e0e9d2a 12,55-57,61,72-76,92,96,100-112,115,118,123-140,174-195,211-218,225,229-236,238,253-254,275-276,278-291
+internal/caldav/log.go
+  s_4a30703ed6a00b::t_770aa010502425 143-173
+internal/davcompat/davcompat.go
+  s_4a30703ed6a00b::t_2c5ed6047d422c 56-59,72-74,94,103,134-146
+internal/server/server.go
+  s_4a30703ed6a00b::t_e9ca4212363d0c 11,49-62,77-84
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9e6e6bff85b60949d26d2a957c1b65fef05404cf",
+  "prompts": {},
+  "sessions": {
+    "s_4a30703ed6a00b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fc9d7e5e-7c96-411b-83e1-ca523e3c3867",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Franklin Tranié <franklin.tranie@gmail.com>"
+    }
+  }
+}
