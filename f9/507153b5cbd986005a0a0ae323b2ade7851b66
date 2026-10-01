@@ -1,0 +1,24 @@
+internal/calendar/create_test.go
+  s_4a30703ed6a00b::t_fb0a96848196ad 1-207
+internal/calendar/create.go
+  s_4a30703ed6a00b::t_173bf30d5d4844 1-317
+internal/proton/client.go
+  s_4a30703ed6a00b::t_b89980e4bcb6b9 137-144
+  s_4a30703ed6a00b::t_2e0c54d81a076b 228
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f9507153b5cbd986005a0a0ae323b2ade7851b66",
+  "prompts": {},
+  "sessions": {
+    "s_4a30703ed6a00b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fc9d7e5e-7c96-411b-83e1-ca523e3c3867",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Franklin Tranié <franklin.tranie@gmail.com>"
+    }
+  }
+}
